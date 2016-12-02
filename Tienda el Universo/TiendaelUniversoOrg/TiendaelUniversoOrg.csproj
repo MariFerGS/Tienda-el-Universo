@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C66813B-23C3-4BE8-B19D-FC7107048237}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TiendaelUniversoOrg</RootNamespace>
+    <AssemblyName>TiendaelUniversoOrg</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft Office\root\Office16\ADDINS\PowerPivot Excel Add-in\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_Articles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Articles.Designer.cs">
+      <DependentUpon>Add_Articles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregar_Carrito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregar_Carrito.Designer.cs">
+      <DependentUpon>Agregar_Carrito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregar_Carrito_Articulo_Comprados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregar_Carrito_Articulo_Comprados.Designer.cs">
+      <DependentUpon>Agregar_Carrito_Articulo_Comprados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="agregar_localito.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>agregar_localito.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Agregar_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregar_Usuario.Designer.cs">
+      <DependentUpon>Agregar_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arti_AdmiDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Arti_AdmiDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Arti_AdmiDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Arti_AdmiDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="codigo_empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="codigo_empleado.Designer.cs">
+      <DependentUpon>codigo_empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataUser.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataUser.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DBArt.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBArt.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Info_Articles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info_Articles.Designer.cs">
+      <DependentUpon>Info_Articles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Locales_Agregars1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Locales_Agregars1.Designer.cs">
+      <DependentUpon>Locales_Agregars1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginData.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LoginData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Clientes.Designer.cs">
+      <DependentUpon>Menu_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodigoAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CodigoAdmin.Designer.cs">
+      <DependentUpon>CodigoAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Administrador.Designer.cs">
+      <DependentUpon>Menu_Administrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Add_Articles.resx">
+      <DependentUpon>Add_Articles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregar_Carrito.resx">
+      <DependentUpon>Agregar_Carrito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregar_Carrito_Articulo_Comprados.resx">
+      <DependentUpon>Agregar_Carrito_Articulo_Comprados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregar_Usuario.resx">
+      <DependentUpon>Agregar_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="codigo_empleado.resx">
+      <DependentUpon>codigo_empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info_Articles.resx">
+      <DependentUpon>Info_Articles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Locales_Agregars1.resx">
+      <DependentUpon>Locales_Agregars1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Clientes.resx">
+      <DependentUpon>Menu_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CodigoAdmin.resx">
+      <DependentUpon>CodigoAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Administrador.resx">
+      <DependentUpon>Menu_Administrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="agregar_localito.xsc">
+      <DependentUpon>agregar_localito.xsd</DependentUpon>
+    </None>
+    <None Include="agregar_localito.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>agregar_localito.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="agregar_localito.xss">
+      <DependentUpon>agregar_localito.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="Arti_AdmiDataSet.xsc">
+      <DependentUpon>Arti_AdmiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Arti_AdmiDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Arti_AdmiDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Arti_AdmiDataSet.xss">
+      <DependentUpon>Arti_AdmiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Arti_AdmiDataSet1.xsc">
+      <DependentUpon>Arti_AdmiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Arti_AdmiDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Arti_AdmiDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Arti_AdmiDataSet1.xss">
+      <DependentUpon>Arti_AdmiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DatabaseDataSet.xsc">
+      <DependentUpon>DatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DatabaseDataSet.xss">
+      <DependentUpon>DatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataUser.xsc">
+      <DependentUpon>DataUser.xsd</DependentUpon>
+    </None>
+    <None Include="DataUser.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataUser.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataUser.xss">
+      <DependentUpon>DataUser.xsd</DependentUpon>
+    </None>
+    <None Include="DBArt.xsc">
+      <DependentUpon>DBArt.xsd</DependentUpon>
+    </None>
+    <None Include="DBArt.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBArt.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DBArt.xss">
+      <DependentUpon>DBArt.xsd</DependentUpon>
+    </None>
+    <None Include="LoginData.xsc">
+      <DependentUpon>LoginData.xsd</DependentUpon>
+    </None>
+    <None Include="LoginData.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LoginData.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LoginData.xss">
+      <DependentUpon>LoginData.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cielo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="articulo_prueva.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Arti_Admi.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DBuser.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Login.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

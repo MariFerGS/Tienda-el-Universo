@@ -1,0 +1,225 @@
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csprojResolveAssemblyReference.cache
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Actualizar_Admin.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Actualizar_Empleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Actualizar_Usuario.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Add_Articles.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Empleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Usuario.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Buscar_Eliminar_User.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Eliminar_Buscar_Admin.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Clientes.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoAdmin.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoEmpleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Eliminar_Buscar_Empleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Empleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Forminico.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Administrador.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Properties.Resources.resources
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csproj.GenerateResource.Cache
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.pdb
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csprojResolveAssemblyReference.cache
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Actualizar_Admin.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Actualizar_Empleado.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Actualizar_Usuario.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Add_Articles.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Empleado.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Usuario.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Buscar_Eliminar_User.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Eliminar_Buscar_Admin.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Clientes.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoAdmin.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoEmpleado.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Eliminar_Buscar_Empleado.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Empleado.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Forminico.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Administrador.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Properties.Resources.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csproj.GenerateResource.Cache
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Actualizar.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Agregar.resources
+C:\Users\MY\Documents\GitHub\Horoscope\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Eliminar_Buscar.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csprojResolveAssemblyReference.cache
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Actualizar_Admin.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Actualizar_Empleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Actualizar_Usuario.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Add_Articles.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Empleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Usuario.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Buscar_Eliminar_User.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Eliminar_Buscar_Admin.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Actualizar.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Agregar.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Eliminar_Buscar.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Clientes.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoAdmin.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoEmpleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Eliminar_Buscar_Empleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Empleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Forminico.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Administrador.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Properties.Resources.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csproj.GenerateResource.Cache
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csprojResolveAssemblyReference.cache
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Add_Articles.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Empleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Usuario.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Agregar.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Clientes.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoAdmin.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoEmpleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Empleado.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Forminico.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Administrador.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Properties.Resources.resources
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csproj.GenerateResource.Cache
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe.config
+C:\Users\M.Fernanda\Desktop\Horoscopo - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\Articulos.accdb
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe.config
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\Articulos.accdb
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.pdb
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csprojResolveAssemblyReference.cache
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Add_Articles.resources
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Empleado.resources
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Usuario.resources
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Agregar.resources
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Clientes.resources
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoAdmin.resources
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoEmpleado.resources
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Empleado.resources
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Forminico.resources
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Administrador.resources
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Properties.Resources.resources
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csproj.GenerateResource.Cache
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\articulo_prueva.accdb
+C:\Users\MY\Documents\GitHub\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Agregars1.resources
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe.config
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\articulo_prueva.accdb
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csprojResolveAssemblyReference.cache
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Add_Articles.resources
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Usuario.resources
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Agregars1.resources
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Clientes.resources
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoAdmin.resources
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoEmpleado.resources
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Forminico.resources
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Administrador.resources
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Properties.Resources.resources
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csproj.GenerateResource.Cache
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\Database.accdb
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\DBuser.accdb
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe.config
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\articulo_prueva.accdb
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\Database.accdb
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\DBuser.accdb
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csprojResolveAssemblyReference.cache
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Add_Articles.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Usuario.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Agregars1.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Clientes.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoAdmin.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoEmpleado.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Forminico.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Administrador.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Properties.Resources.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Prueba - copia\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csproj.GenerateResource.Cache
+C:\Users\M.Fernanda\Desktop\Prueba\TiendaelUniversoOrg\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Info_Articles.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe.config
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\bin\Debug\articulo_prueva.accdb
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\bin\Debug\Database.accdb
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\bin\Debug\DBuser.accdb
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csprojResolveAssemblyReference.cache
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Add_Articles.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Usuario.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Info_Articles.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Agregars1.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Clientes.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoAdmin.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoEmpleado.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Forminico.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Administrador.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Properties.Resources.resources
+C:\Users\M.Fernanda\Desktop\Copia original\Copia\Copia\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csproj.GenerateResource.Cache
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe.config
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\articulo_prueva.accdb
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\Database.accdb
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\DBuser.accdb
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\Login.accdb
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csprojResolveAssemblyReference.cache
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Add_Articles.resources
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Usuario.resources
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Info_Articles.resources
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Agregars1.resources
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Clientes.resources
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoAdmin.resources
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Forminico.resources
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Administrador.resources
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Properties.Resources.resources
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csproj.GenerateResource.Cache
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.codigo_empleado.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe.config
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\articulo_prueva.accdb
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\Database.accdb
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\DBuser.accdb
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\Login.accdb
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.pdb
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csprojResolveAssemblyReference.cache
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Add_Articles.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Usuario.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.codigo_empleado.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Info_Articles.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Locales_Agregars1.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Clientes.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.CodigoAdmin.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Forminico.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Menu_Administrador.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Properties.Resources.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.csproj.GenerateResource.Cache
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\Arti_Admi.accdb
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Carrito.resources
+C:\Users\MY\Documents\GitHub\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Carrito_Articulo_Comprados.resources
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\Arti_Admi.accdb
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Carrito.resources
+C:\Users\M.Fernanda\Desktop\Prueba\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.Agregar_Carrito_Articulo_Comprados.resources
+C:\Users\M.Fernanda\Desktop\Tienda el Universo\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe.config
+C:\Users\M.Fernanda\Desktop\Tienda el Universo\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Tienda el Universo\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Visual Studio 2015\Projects\Tienda el Universo\Tienda el Universo\TiendaelUniversoOrg\bin\Debug\TiendaelUniversoOrg.exe.config
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Visual Studio 2015\Projects\Tienda el Universo\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.exe
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Visual Studio 2015\Projects\Tienda el Universo\Tienda el Universo\TiendaelUniversoOrg\obj\Debug\TiendaelUniversoOrg.pdb
